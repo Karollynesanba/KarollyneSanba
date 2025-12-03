@@ -16,8 +16,8 @@ Sobre mim
 
 ## Qualidade e Testes
 - Testes manuais
--Casos e cenários de testes
--Cypress e Robot Framework
+- Casos e cenários de testes
+- Cypress e Robot Framework
 
 ## Contato:
 [LinkedIn](https://www.linkedin.com/in/karollynebarbosa/)

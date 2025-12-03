@@ -6,7 +6,7 @@ Sobre mim
 - Atualmente aprendendo um pouco sobre a área de testes de software
 - Buscando aperfeiçoar meus conhecimentos de HTML,CSS e JavaScript
 
-#Linguagens e ferramentas :
+##Linguagens e ferramentas :
 - Python
 - Java
 - Git e GitHub
@@ -14,7 +14,7 @@ Sobre mim
 - HTML
 - CSS
 
-#Qualidade e Testes
+##Qualidade e Testes
 - Testes manuais
 -Casos e cenários de testes
 -Cypress e Robot Framework

@@ -1,16 +1,28 @@
-## Hi there 👋
+## Olá!Eu meu nome é Karollyne Santos Barbosa!
 
-<!--
-**Karollynesanba/KarollyneSanba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+- Estudante de Ciência da Computação 
+- Experiência prévia como desenvolvedora back-end em Java
+- Atualmente aprendendo um pouco sobre a área de testes de software
+- Buscando aperfeiçoar meus conhecimentos de HTML,CSS e JavaScript
 
-Here are some ideas to get you started:
+#Linguagens e ferramentas :
+- Python
+- Java
+- Git e GitHub
+- SQL
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Qualidade e Testes
+- Testes manuais
+-Casos e cenários de testes
+-Cypress e Robot Framework
+
+#Contato:
+[LinkedIn](https://www.linkedin.com/in/karollynebarbosa/)
+[email](karollynesanbarbosa@gmail.com)
+
+------------------------------------------------------------------------------------------------------
+
+Obrigada por visitar meu perfil!!

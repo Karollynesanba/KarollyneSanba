@@ -21,6 +21,7 @@ Sobre mim
 
 ## Contato:
 [LinkedIn](https://www.linkedin.com/in/karollynebarbosa/)
+
 [email](karollynesanbarbosa@gmail.com)
 
 ------------------------------------------------------------------------------------------------------

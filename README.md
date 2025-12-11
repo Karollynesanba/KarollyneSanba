@@ -7,12 +7,8 @@ Sobre mim
 - Buscando aperfeiçoar meus conhecimentos de HTML,CSS e JavaScript
 
 ## Linguagens e ferramentas :
-- Python
-- Java
-- Git e GitHub
-- SQL
-- HTML
-- CSS
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
 
 ## Qualidade e Testes
 - Testes manuais

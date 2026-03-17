@@ -1,7 +1,7 @@
 ## Olá!Eu meu nome é Karollyne Santos Barbosa!
 
 Sobre mim
-- Estudante de Ciência da Computação 
+- Estudante de Sistema de Informação
 - Experiência prévia como desenvolvedora back-end em Java
 - Atualmente aprendendo um pouco sobre a área de testes de software
 - Buscando aperfeiçoar meus conhecimentos de HTML,CSS e JavaScript
